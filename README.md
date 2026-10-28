@@ -44,7 +44,7 @@ Rose
 ## Notes
 
 - These are recreational programs, not part of a toolbox. There are no tests.
-- No licence file is included. Ask before reusing the code in your own work.
+- Released under the MIT licence, Copyright (c) 2026 Thomas; see `LICENSE`.
 
 The image, volume and signal processing library lives separately in
 [matlabTools](https://github.com/ThomasZhangTY/matlabTools).
